@@ -6,15 +6,10 @@
 I'm a graduate student pursing a *Master of Science in Computer Engineering* at **Univeristy of Texas at El Paso (UTEP)**. I love embedded systems! The interaction between software and hardware intrigues me. 
 
 ## Recent Projects
- - [Microprocessor 2 Lab Template](https://github.com/jminjares4/Microprocessor-2-Lab-Template)
-   - Created and updated labs for Microprocessor 2 course using the ESP32. Each lab has three files:
-     - main.c-> template source code 
-     - README.md -> instruction of the lab in a markdown file
-     - Labs.pdf -> instructions in a single pdf
- - [Elevator Controller](https://github.com/jminjares4/Elevator)
-   - Create a 3-floor Elevator Controller that use the ESP32 as its MCU. 
-   - Design drivers documentation with Doxygen
-   - Create hardware drivers for ADXL335, buttons, force-sensitive sensor, LEDs, PIR Motion Sensor, and the SG90 servo motor
+  
+[![Microprocessor 2 Lab Template](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Microprocessor-2-Lab-Template&theme=tokyonight)](https://github.com/jminjares4/Microprocessor-2-Lab-Template)
+
+[![Elevator Controller](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Elevator&theme=tokyonight)](https://github.com/jminjares4/Elevator)
  
 ### *Microcontrollers*
 ---
@@ -29,6 +24,9 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=764ABC)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=E34F26)
 </br>
+
+
+
 
 ## Top Languages
 
