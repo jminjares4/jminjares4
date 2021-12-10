@@ -1,5 +1,4 @@
-
-![pcb](https://user-images.githubusercontent.com/60948298/145497036-cceaacaf-bdb2-4449-b101-7598fc54b5c3.png)
+<img src="https://github.com/jminjares4/jminjares4/tree/main/images/pcb.png" width="48" height="48">
 ## ***Jesus Minjares***
 I'm a graduate student pursing a *Master of Science in Computer Engineering* at **Univeristy of Texas at El Paso (UTEP)**. I love embedded systems! The interaction between software and hardware intrigues me. 
 
