@@ -16,7 +16,6 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 - *TI MSP430*
 - *TI MSP432*
 - *Espressif ESP32* 
-
 ## **Coding Languages**
 ***
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=003B57)
@@ -27,7 +26,7 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 
 ## **Top Language**
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jminjares4&layout=compact&hide=CMake,html,Assembly,Batchfile,Makefile,XS&theme=react)](https://github.com/jminjares4/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jminjares4&layout=compact&hide=CMake,html,Assembly,Batchfile,Makefile,XS&theme=react)](https://github.com/jminjares4/github-readme-stats) :smile:
 
 ## **GitHub Stats** 
 ***
