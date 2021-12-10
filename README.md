@@ -1,8 +1,7 @@
-<div style="text-align:center"><img src="images/pcb.png" width="250" height="250 /></div>
-
-</br>
-
-## ***Jesus Minjares***
+ <p align="center">
+  <img width="300" height="300" src="images/pcb.png">
+</p>
+ ## ***Jesus Minjares***
 I'm a graduate student pursing a *Master of Science in Computer Engineering* at **Univeristy of Texas at El Paso (UTEP)**. I love embedded systems! The interaction between software and hardware intrigues me. 
 
 ## Recent Projects
