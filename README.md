@@ -1,4 +1,4 @@
-<a href="url"><img src="https://github.com/jminjares4/jminjares4/tree/main/images/pcb.png" align="center" height="250" width="250" ></a>
+<a href="url"><img src="images/pcb.png" align="center" height="500" width="400" ></a>
 
 ## ***Jesus Minjares***
 I'm a graduate student pursing a *Master of Science in Computer Engineering* at **Univeristy of Texas at El Paso (UTEP)**. I love embedded systems! The interaction between software and hardware intrigues me. 
