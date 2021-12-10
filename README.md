@@ -2,7 +2,7 @@
   <img width="300" height="300" src="images/pcb.png">
 </p>
 
-## ***Jesus Minjares***
+## ***Jesus Minjares :zap:***
 I'm a graduate student pursing a *Master of Science in Computer Engineering* at **Univeristy of Texas at El Paso (UTEP)**. I love embedded systems! The interaction between software and hardware intrigues me. 
 
 ## ***Recent Projects***
@@ -26,7 +26,7 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 
 ## **Top Language**
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jminjares4&layout=compact&hide=CMake,html,Assembly,Batchfile,Makefile,XS&theme=react)](https://github.com/jminjares4/github-readme-stats) :smile:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jminjares4&layout=compact&hide=CMake,html,Assembly,Batchfile,Makefile,XS&theme=react)](https://github.com/jminjares4/github-readme-stats)
 
 ## **GitHub Stats** 
 ***
