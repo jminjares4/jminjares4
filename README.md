@@ -30,9 +30,6 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=E34F26)
 </br>
 
-![Jesus's GitHub stats](https://github-readme-stats.vercel.app/api?username=jminjares4&show_icons=true&theme=tokyonight)
-
-
 ## Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jminjares4&layout=compact&hide=CMake,html,Assembly,Batchfile,Makefile,XS&theme=tokyonight)](https://github.com/jminjares4/github-readme-stats)
