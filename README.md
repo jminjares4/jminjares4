@@ -37,7 +37,9 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 
 ### Contact with me:
 <a href="https://www.linkedin.com/in/jesus-minjares-157a21195/"><img align="left" src="https://raw.githubusercontent.com/jminjares4/jminjares4/main/images/linkedin.svg" alt="Jesus Minjares | LinkedIn" width="21px"/></br>
+
 Email: [Jesus Minjares](jminjares4@miners.utep.edu)
+
 Git:  [Jesus Minjares](https://github.com/jminjares4)
 
 
