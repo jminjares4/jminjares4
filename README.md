@@ -20,6 +20,7 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 ***
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=003B57)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=Cplusplus&color=61DAFB)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=Rust&color=FF0000)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=764ABC)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=E34F26)
 </br>
