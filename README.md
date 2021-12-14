@@ -27,7 +27,7 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 
 ## **Top Language**
 ***
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jminjares4&layout=compact&hide=CMake,html,Assembly,Batchfile,Makefile,XS&theme=react)](https://github.com/jminjares4/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jminjares4&layout=compact&hide=CMake,html,Assembly,Batchfile,Makefile,XS&theme=react)](https://github.com/jminjares4/)
 
 ## **GitHub Stats** 
 ***
