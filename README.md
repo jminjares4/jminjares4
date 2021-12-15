@@ -39,5 +39,5 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 ### ***Contact with me:***
 ---
 - [LinkedIn](https://www.linkedin.com/in/jesus-minjares-157a21195/)
-- Email:  jminjares4@mineres.utep.edu
+- Email:  jminjares4@miners.utep.edu
 - Github: https://github.com/jminjares4
