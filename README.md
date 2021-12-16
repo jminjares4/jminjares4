@@ -6,10 +6,10 @@
 I'm a graduate student pursing a *Master of Science in Computer Engineering* at **Univeristy of Texas at El Paso (UTEP)**. I love embedded systems! The interaction between software and hardware intrigues me. 
 
 ## ***Recent Projects***
-  
-[![Microprocessor 2 Lab Template](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Microprocessor-2-Lab-Template&theme=react)](https://github.com/jminjares4/Microprocessor-2-Lab-Template) 
 
-[![Elevator Controller](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Elevator&theme=react)](https://github.com/jminjares4/Elevator)
+[![MSP432 Example Codes](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=MSP432-Example-Codes&theme=react)](https://github.com/jminjares4/MSP432-Example-Codes)
+
+[![Microprocessor 2 Lab Template](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Microprocessor-2-Lab-Template&theme=react)](https://github.com/jminjares4/Microprocessor-2-Lab-Template) 
  
 ## **Microcontrollers**
 ***
