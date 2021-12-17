@@ -4,13 +4,6 @@
 
 ## ***Jesus Minjares :zap:***
 I'm a graduate student pursing a *Master of Science in Computer Engineering* at **Univeristy of Texas at El Paso (UTEP)**. I love embedded systems! The interaction between software and hardware intrigues me. 
-
-## **Education**
-- Master of Science in Computer Engineering
-  - Spring 2022
-- Bachelor of Science in Electrical Engineering
-  -  Concentration: Computer Engineering
-     -  Fall 2020
   
 ## ***Recent Projects***
 
