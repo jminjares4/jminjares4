@@ -6,8 +6,9 @@
 I'm a graduate student pursing a *Master of Science in Computer Engineering* at **Univeristy of Texas at El Paso (UTEP)**. I love embedded systems! The interaction between software and hardware intrigues as you need to understand both to create complex systems! :zap: 
 
 ## ***Recent Projects***
-[![MSP432 Example Codes ](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=MSP432-Example-Codes&theme=react)](https://github.com/jminjares4/MSP432-Example-Codes)
-[![Microprocessor 2 Lab Template ](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Microprocessor-2-Lab-Template&theme=react)](https://github.com/jminjares4/Microprocessor-2-Lab-Template)
+[![MSP432 Example Codes ](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=MSP432-Example-Codes&theme=react&layout=compact)](https://github.com/jminjares4/MSP432-Example-Codes)
+
+[![Microprocessor 2 Lab Template ](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Microprocessor-2-Lab-Template&theme=react&layout=compact)](https://github.com/jminjares4/Microprocessor-2-Lab-Template)
 
 ## **Microcontrollers**
 
@@ -30,15 +31,13 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 </br>
 
 ## **Top Languages**
-***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jminjares4&layout=compact&hide=CMake,html,Assembly,Batchfile,Makefile,XS&theme=react)](https://github.com/jminjares4/)
 
 ## **GitHub Stats** 
-***
 [![Jminjares4's github stats](https://github-readme-stats.vercel.app/api?username=jminjares4&theme=react)](https://github.com/jminjares4)
 
+## **Visitor Count**
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=jminjares4.jminjares4)](https://github.com/jminjares4)
-
 
 ### ***Contact with me:***
 ---
