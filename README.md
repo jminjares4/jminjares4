@@ -8,10 +8,10 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 ## ***Recent Projects***
 
 <a href="https://github.com/jminjares4/MSP432-Example-Codes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=MSP432-Example-Codes&theme=react"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=MSP432-Example-Codes&theme=react" width = "300" height = "300" />
 </a>
 <a href="https://github.com/jminjares4/Microprocessor-2-Lab-Template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Microprocessor-2-Lab-Template&theme=react" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Microprocessor-2-Lab-Template&theme=react" width = "350" height = "200"/>
 </a>
  
 ## **Microcontrollers**
