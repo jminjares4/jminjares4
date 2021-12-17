@@ -12,14 +12,14 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 
 ## **Microcontrollers**
 
-- *Texas Instrument*
+- **Texas Instrument**
     - [x] *MSP430*
     - [x] *MSP432*
     - [x] *Tiva C*
-- *Espressif*
+- **Espressif**
   -  [x] *ESP32*
   -  [x] *ES8266*
-- *STMicroelectronics*
+- **STMicroelectronics**
    - [ ] *STM32*  
 ## **Coding Languages**
 
