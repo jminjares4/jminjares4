@@ -5,6 +5,13 @@
 ## ***Jesus Minjares :zap:***
 I'm a graduate student pursing a *Master of Science in Computer Engineering* at **Univeristy of Texas at El Paso (UTEP)**. I love embedded systems! The interaction between software and hardware intrigues me. 
 
+## **Education**
+- Master of Science in Computer Engineering
+  - Spring 2022
+- Bachelor of Science in Electrical Engineering
+  -  Concentration: Computer Engineering
+     -  Fall 2020
+  
 ## ***Recent Projects***
 
 [![MSP432 Example Codes](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=MSP432-Example-Codes&theme=react)](https://github.com/jminjares4/MSP432-Example-Codes)
@@ -13,9 +20,15 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
  
 ## **Microcontrollers**
 ***
-- *TI MSP430*
-- *TI MSP432*
-- *Espressif ESP32* 
+- *Texas Instrument*
+    - *MSP430*
+    - *MSP432*
+    - *Tiva C*
+- *Espressif*
+  -  *ESP32*
+  -  *ES8266*
+- *STMicroelectronics*
+   - *STM32* `in progress` 
 ## **Coding Languages**
 ***
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=003B57)
@@ -25,7 +38,7 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&color=E34F26)
 </br>
 
-## **Top Language**
+## **Top Languages**
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jminjares4&layout=compact&hide=CMake,html,Assembly,Batchfile,Makefile,XS&theme=react)](https://github.com/jminjares4/)
 
