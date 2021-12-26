@@ -18,7 +18,7 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
     - [x] *TIVA C*
 - **Espressif**
   -  [x] *ESP32*
-  -  [x] *ES8266*
+  -  [x] *ESP8266*
 - **STMicroelectronics**
    - [ ] *STM32*  
 ## **Coding Languages**
