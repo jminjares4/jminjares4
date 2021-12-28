@@ -13,14 +13,16 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 ## **Microcontrollers**
 
 - **Texas Instrument**
-    - [x] *MSP430*
-    - [x] *MSP432*
-    - [x] *TIVA C*
+  - [x] *MSP430*
+  - [x] *MSP432*
+  - [x] *TIVA C*
 - **Espressif**
-  -  [x] *ESP32*
-  -  [x] *ESP8266*
+  - [x] *ESP32*
+  - [x] *ESP8266*
+- **Rasperry Pi**
+  - [ ] *Rasperry Pi Pico*
 - **STMicroelectronics**
-   - [ ] *STM32*  
+  - [ ] *STM32*
 ## **Coding Languages**
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=003B57)
