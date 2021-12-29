@@ -5,7 +5,31 @@
 ## ***Jesus Minjares :zap:***
 I'm a graduate student pursing a *Master of Science in Computer Engineering* at **Univeristy of Texas at El Paso (UTEP)**. I love embedded systems! The interaction between software and hardware intrigues as you need to understand both to create complex systems! :zap: 
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="jesus-minjares-157a21195" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/jesus-minjares-157a21195?trk=profile-badge">Jesus Minjares</a></div>
+
+<div
+  class='LI-profile-badge'
+  data-version='v1'
+  data-size='medium'
+  data-locale='en_US'
+  data-type='horizontal'
+  data-theme='dark'
+  data-vanity='Jesus Minjares'
+>
+  <a
+    class='LI-simple-link'
+    href='https://www.linkedin.com/in/jesus-minjares-157a21195/?trk=profile-badge'
+  >
+    Manav Oza
+  </a>
+</div>
+
+ <script
+  type='text/javascript'
+  src='https://platform.linkedin.com/badges/js/profile.js'
+  async
+  defer
+></script>
+
 
 ## ***Recent Projects***
 [![Remote Control (RC) Car ](https://github-readme-stats.vercel.app/api/pin/?username=JorgeMinjares&repo=RC-Car&theme=react&layout=compact)](https://github.com/JorgeMinjares/RC-Car)
