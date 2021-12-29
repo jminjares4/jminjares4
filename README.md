@@ -5,6 +5,10 @@
 ## ***Jesus Minjares :zap:***
 I'm a graduate student pursing a *Master of Science in Computer Engineering* at **Univeristy of Texas at El Paso (UTEP)**. I love embedded systems! The interaction between software and hardware intrigues as you need to understand both to create complex systems! :zap: 
 
+<img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
+
+
+
 ## ***Recent Projects***
 [![Remote Control (RC) Car ](https://github-readme-stats.vercel.app/api/pin/?username=JorgeMinjares&repo=RC-Car&theme=react&layout=compact)](https://github.com/JorgeMinjares/RC-Car)
 
