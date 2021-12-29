@@ -5,10 +5,6 @@
 ## ***Jesus Minjares :zap:***
 I'm a graduate student pursing a *Master of Science in Computer Engineering* at **Univeristy of Texas at El Paso (UTEP)**. I love embedded systems! The interaction between software and hardware intrigues as you need to understand both to create complex systems! :zap: 
 
-<img align="right" src="https://img.shields.io/badge/Arch-1793D1?logo=arch-linux&logoColor=white" />
-
-
-
 ## ***Recent Projects***
 [![Remote Control (RC) Car ](https://github-readme-stats.vercel.app/api/pin/?username=JorgeMinjares&repo=RC-Car&theme=react&layout=compact)](https://github.com/JorgeMinjares/RC-Car)
 
@@ -45,10 +41,7 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 ## **Visitor Count**
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=jminjares4.jminjares4)](https://github.com/jminjares4)
 
-### ***Contact with me:***
+### ***Contact:***
 ---
-![image]({https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white})
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jminjares4@miners.utep.edu)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-minjares-157a21195/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jminjares4) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/JesusMinjares)
 
-- [LinkedIn](https://www.linkedin.com/in/jesus-minjares-157a21195/)
-- Email:  jminjares4@miners.utep.edu
-- Github: https://github.com/jminjares4
