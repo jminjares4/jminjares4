@@ -11,18 +11,18 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 [![QR Code Using Pyton ](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=QR-Code&theme=react&layout=compact)](https://github.com/jminjares4/QR-Code)
 
 ## **Microcontrollers**
+- **Texas Instrument** <br>
+![MSP430](https://img.shields.io/static/v1?label=TI&logo=texas&message=MSP430&color=FF0000)
+![MSP432](https://img.shields.io/static/v1?label=TI&message=MSP432&color=FF0000) 
+![TIVA C](https://img.shields.io/static/v1?label=TI&message=TIVA%20C&color=FF0000)
+- **Espressif** <br>
+![ESP32](https://img.shields.io/static/v1?label=&logo=espressif&message=ESP32)
+![ESP8266](https://img.shields.io/static/v1?label=&logo=espressif&message=ESP8266)
+- **Rasperry Pi**<br>
+![Rasppery Pi Pico](https://img.shields.io/static/v1?&message=Pico&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
+- **STMicroelectronics** <br>
+![STMicroelectronics](https://img.shields.io/static/v1?style=flat&message=STM32F4&color=03234B&logo=STMicroelectronics&logoColor=FFFFFF&label=)
 
-- **Texas Instrument**
-  - [x] *MSP430*
-  - [x] *MSP432*
-  - [x] *TIVA C*
-- **Espressif**
-  - [x] *ESP32*
-  - [x] *ESP8266*
-- **Rasperry Pi**
-  - [ ] *Rasperry Pi Pico*
-- **STMicroelectronics**
-  - [ ] *STM32*
 ## **Coding Languages**
 
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=C&color=003B57)
@@ -42,5 +42,5 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=jminjares4.jminjares4)](https://github.com/jminjares4)
 
 ## ***Contact:***
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:jminjares4@miners.utep.edu)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-minjares-157a21195/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jminjares4) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/JesusMinjares)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&style=flat)](mailto:jminjares4@miners.utep.edu)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jesus-minjares-157a21195/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat)](https://github.com/jminjares4) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&style=flat)](https://linktr.ee/JesusMinjares)
 
