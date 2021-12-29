@@ -16,8 +16,8 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 ![MSP432](https://img.shields.io/static/v1?label=TI&message=MSP432&color=FF0000) 
 ![TIVA C](https://img.shields.io/static/v1?label=TI&message=TIVA%20C&color=FF0000)
 - **Espressif** <br>
-![ESP32](https://img.shields.io/static/v1?label=&logo=espressif&message=ESP32)
-![ESP8266](https://img.shields.io/static/v1?label=&logo=espressif&message=ESP8266)
+![ESP32](https://img.shields.io/static/v1?label=&logo=espressif&message=ESP32&color=000000)
+![ESP8266](https://img.shields.io/static/v1?label=&logo=espressif&message=ESP8266&color=000000)
 - **Rasperry Pi**<br>
 ![Rasppery Pi Pico](https://img.shields.io/static/v1?&message=Pico&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
 - **STMicroelectronics** <br>
