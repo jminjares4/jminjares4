@@ -1,4 +1,4 @@
-<img src="(https://github.com/jminjares4/jminjares4/tree/main/gif/jminjares4.gif" alt="Jesus Minjares GIF" width="500" height="600">
+<img src="https://github.com/jminjares4/jminjares4/tree/main/gif/jminjares4.gif" alt="Jesus Minjares GIF" width="500" height="600">
 
 ## ***Jesus Minjares :zap:***
 I'm a graduate student pursing a *Master of Science in Computer Engineering* at **Univeristy of Texas at El Paso (UTEP)**. I love embedded systems! The interaction between software and hardware intrigues as you need to understand both to create complex systems! :zap: 
