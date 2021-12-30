@@ -10,6 +10,11 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 
 [![QR Code Using Pyton ](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=QR-Code&theme=react&layout=compact)](https://github.com/jminjares4/QR-Code)
 
+<p align="left">
+  <a href=https://github-readme-stats.vercel.app/api/pin/?username=JorgeMinjares&repo=RC-Car&theme=react&layout=compact><img width="282" src=https://github.com/JorgeMinjares/RC-Car></a>
+    <a href=https://github-readme-stats.vercel.app/api/pin/?username=JorgeMinjares&repo=RC-Car&theme=react&layout=compact><img width="282" src=https://github.com/JorgeMinjares/RC-Car></a>
+</p>
+
 ## **Microcontrollers**
 - **Texas Instrument** <br>
 ![MSP430](https://img.shields.io/static/v1?label=TI&logo=texas&message=MSP430&color=FF0000)
