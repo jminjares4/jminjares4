@@ -6,11 +6,11 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 ## ***Recent Projects***
 <p align="left">
   <a href="https://github.com/JorgeMinjares/RC-Car">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeMinjares&repo=RC-Car&theme=react&layout=compact&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JorgeMinjares&repo=RC-Car&theme=react&layout=compact&hide_border=false" />
   </a> 
   <br>  
   <a href="https://github.com/jminjares4/QR-Code">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=QR-Code&theme=react&layout=compact&hide_border=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=QR-Code&theme=react&layout=compact&hide_border=false" />
   </a>
 </p>
 
@@ -37,10 +37,10 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 </br>
 
 ## **Top Languages**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jminjares4&layout=compact&hide=CMake,html,Assembly,Batchfile,Makefile,XS&theme=react&hide_border=true)](https://github.com/jminjares4/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jminjares4&layout=compact&hide=CMake,html,Assembly,Batchfile,Makefile,XS&theme=react&hide_border=false)](https://github.com/jminjares4/)
 
 ## **GitHub Stats** 
-[![Jminjares4's github stats](https://github-readme-stats.vercel.app/api?username=jminjares4&theme=react&hide_border=true)](https://github.com/jminjares4)
+[![Jminjares4's github stats](https://github-readme-stats.vercel.app/api?username=jminjares4&theme=react&hide_border=false)](https://github.com/jminjares4)
 
 ## **Visitor Count**
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=jminjares4.jminjares4)](https://github.com/jminjares4)
