@@ -3,8 +3,8 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 
 ## ***Recent Projects***
 <p align="left">
-  <a href=https://github.com/JorgeMinjares/RC-Car><img width="350" src=https://github-readme-stats.vercel.app/api/pin/?username=JorgeMinjares&repo=RC-Car&theme=react&layout=compact&hide_border=true></a><br>
-  <a href=https://github.com/jminjares4/QR-Code><img width="350" src=https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=QR-Code&theme=react&layout=compact&hide_border=true></a>
+  <a href=https://github.com/JorgeMinjares/RC-Car><img src=https://github-readme-stats.vercel.app/api/pin/?username=JorgeMinjares&repo=RC-Car&theme=react&layout=compact&hide_border=true></a><br>
+  <a href=https://github.com/jminjares4/QR-Code><img src=https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=QR-Code&theme=react&layout=compact&hide_border=true></a>
 </p>
 
 ## **Microcontrollers**
