@@ -5,7 +5,7 @@ I'm a graduate student pursing a *Master of Science in Computer Engineering* at 
 
 ## ***Recent Projects***
 [![Custom NFC Card](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Custom-NFC-Card&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/Custom-NFC-Card)<br>
-[![Digital System 2](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Digital-System-2&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/QR-Code)
+[![Digital System 2](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Digital-System-2&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/QR-Code)<br>
 [![QR-Code using Python](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=QR-Code&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/QR-Code)
 
 ## **Microcontrollers**
