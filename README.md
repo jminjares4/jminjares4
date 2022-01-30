@@ -4,7 +4,8 @@
 I'm a graduate student pursing a *Master of Science in Computer Engineering* at **Univeristy of Texas at El Paso (UTEP)**. I love embedded systems! The interaction between software and hardware intrigues as you need to understand both to create complex systems! :zap: 
 
 ## ***Recent Projects***
-[![MSP432-Example-Codes](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=MSP432-Example-Codes&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/MSP432-Example-Codes)<br>
+[![Custom NFC Card](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Custom-NFC-Card&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/Custom-NFC-Card)<br>
+[![Digital System 2](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Digital-System-2&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/QR-Code)
 [![QR-Code using Python](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=QR-Code&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/QR-Code)
 
 ## **Microcontrollers**
