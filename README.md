@@ -21,8 +21,6 @@ I'm a graduate student pursuing a *Master of Science in Computer Engineering* at
 <a href="https://github.com/jminjares4/IPIA-Hardware">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=IPIA-Hardware&theme=react&layout=compact&hide_border=false" />
 </a>
-    <br>
-    <br>
 
 ## **Microcontrollers**
 - **Texas Instrument** <br>
