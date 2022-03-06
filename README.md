@@ -1,12 +1,28 @@
 <img src="gif/jminjares4.gif">
 
 ## ***Jesus Minjares :computer::zap:***
-I'm a graduate student pursuing a *Master of Science in Computer Engineering* at **Univeristy of Texas at El Paso (UTEP)**. I love embedded systems! The interaction between software and hardware intrigues as you need to understand both to create complex systems! :zap: 
+I'm a graduate student pursuing a *Master of Science in Computer Engineering* at [**Univeristy of Texas at El Paso (UTEP)**](https://www.utep.edu). I love embedded systems! The interaction between software and hardware intrigues as you need to understand both to create complex systems! :zap: 
 
 ## ***Recent Projects***
+<!--- Previous implementation
+[![Custom NFC Card](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Custom-NFC-Card&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/Custom-NFC-Card)<br>
 [![Selected Areas in Networks](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Selected-Areas-in-Networks&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/Selected-Areas-in-Networks)<br>
 [![Digital System 2](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Digital-System-2&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/Digital-System-2)<br>
-[![Digital System 2 Template](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Digital-System-2-Template&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/Digital-System-2-Template)<br>
+--->
+<a href="https://github.com/jminjares4/Selected-Areas-in-Networks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Selected-Areas-in-Networks&theme=react&layout=compact&hide_border=false" />
+</a>
+<a href="https://github.com/jminjares4/Digital-System-2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Digital-System-2&theme=react&layout=compact&hide_border=false" />
+</a>
+<a href="https://github.com/jminjares4/Custom-NFC-Card">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Custom-NFC-Card&theme=react&layout=compact&hide_border=false" />
+</a>
+<a href="https://github.com/jminjares4/IPIA-Hardware">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=IPIA-Hardware&theme=react&layout=compact&hide_border=false" />
+</a>
+    <br>
+    <br>
 
 ## **Microcontrollers**
 - **Texas Instrument** <br>
