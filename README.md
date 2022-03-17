@@ -58,6 +58,9 @@ I'm a graduate student pursuing a ***Master of Science in Computer Engineering**
 ## **GitHub Stats** 
 [![Jminjares4's github stats](https://github-readme-stats.vercel.app/api?username=jminjares4&theme=react&hide_border=false)](https://github.com/jminjares4)
 
+## **GitHub Summary**
+![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jminjares4&theme=vue&hide_border=false)
+
 <!--UNCOMMENT IF YOU WANT TO DISPLAY TOTAL COUNT
 ## **Visitor Count**
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=jminjares4.jminjares4)](https://github.com/jminjares4)
