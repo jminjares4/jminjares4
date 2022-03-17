@@ -4,6 +4,7 @@
 I'm a graduate student pursuing a ***Master of Science in Computer Engineering*** at [**University of Texas at El Paso (UTEP)**](https://www.utep.edu). I love `embedded systems`! The interaction between software and hardware intrigues as you need to understand both to create complex systems! :zap:
 
 ## ***Recent Projects***
+
 <!--- Previous implementation
 [![Custom NFC Card](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Custom-NFC-Card&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/Custom-NFC-Card)<br>
 [![Selected Areas in Networks](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Selected-Areas-in-Networks&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/Selected-Areas-in-Networks)<br>
