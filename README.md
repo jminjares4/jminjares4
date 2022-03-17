@@ -19,11 +19,9 @@ I'm a graduate student pursuing a ***Master of Science in Computer Engineering**
 <a href="https://github.com/jminjares4/Custom-NFC-Card">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Custom-NFC-Card&theme=react&layout=compact&hide_border=false" />
 </a>
-<!---
 <a href="https://github.com/jminjares4/Graduation-Cap-Spring-2022">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Graduation-Cap-Spring-2022&theme=react&layout=compact&hide_border=false" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Graduation-Cap-Spring-2022&theme=react&layout=&hide_border=false"/>
 </a>
--->
 
 ## **Microcontrollers**
 - **Texas Instrument** <br>
