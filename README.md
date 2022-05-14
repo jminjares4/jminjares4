@@ -21,12 +21,14 @@ I'm a graduate student pursuing a ***Master of Science in Computer Engineering**
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Custom-NFC-Card&theme=react&layout=compact&hide_border=false" />
 </a>
 
-## **Microprocessor 2 Lab Template**
+<a href="https://github.com/jminjares4/EWOD">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=EWOD&theme=react&layout=compact&hide_border=false" />
+</a>
+<!-- ## **Microprocessor 2 Lab Template**
 [![Microprocessor 2 Lab Template](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Microprocessor-2-Lab-Template&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/Microprocessor-2-Lab-Template)
 
-## **Digital System 2 Lab Template**
-[![Digital Sytems 2 Lab Template](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Digital-System-2-Template&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/Digital-System-2-Template)
-
+<!-- ## **Digital System 2 Lab Template**
+[![Digital Sytems 2 Lab Template](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Digital-System-2-Template&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/Digital-System-2-Template) -->
 
 
 ## **Microcontrollers**
