@@ -67,7 +67,7 @@ I'm a graduate student pursuing a ***Master of Science in Computer Engineering**
 [![Jminjares4's github stats](https://github-readme-stats.vercel.app/api?username=jminjares4&theme=react&hide_border=false)](https://github.com/jminjares4)
 
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+[![Contribution Snake](https://raw.githubusercontent.com/jminjares4/jminjares4/output/github-snake-custom.svg)](https://github.com/Platane/snk)
 
 
 <!--UNCOMMENT IF YOU WANT TO DISPLAY TOTAL COUNT
