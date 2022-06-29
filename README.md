@@ -1,7 +1,7 @@
 <img src="gif/jminjares4.gif">
 
 ## ***Jesus Minjares :computer::zap:***
-I'm a recent graduated with a ***Master of Science in Computer Engineering*** at [**University of Texas at El Paso (UTEP)**](https://www.utep.edu). I love `embedded systems`! The interaction between software and hardware intrigues as you need to understand both to create complex systems! :zap:
+I'm recent graduated with a ***Master of Science in Computer Engineering*** at [**University of Texas at El Paso (UTEP)**](https://www.utep.edu). I love `embedded systems`! The interaction between software and hardware intrigues as you need to understand both to create complex systems! :zap:
 
 ## ***Recent Projects***
 
