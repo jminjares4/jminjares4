@@ -5,7 +5,7 @@
 #include <stdint.h>
 
 /* Degree enumeration */
-typedef enum : uint8_t { ASEE, BSEE, MSCpE } degree_t;
+typedef enum { ASEE, BSEE, MSCpE } degree_t;
 
 /* Info data structure */
 typedef struct {
@@ -25,9 +25,9 @@ int main(int argc, char **argv){
                             .skills = "Hardware | Firmware",
                         };
     /* Print data */
-    printf("Name: %s\nDegree: %d\nSkills: %s\n", jminjares4.name,
-                                                 jminjares4.degree,
-                                                 jminjares4.skills );
+    printf("Name: %s\n",   jminjares4.name);
+    printf("Degree: %d\n", jminjares4.degree);
+    printf("Skills: %s\n", jminjares4.skills);
 
     return EXIT_SUCCESS;
 }
