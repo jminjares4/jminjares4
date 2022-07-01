@@ -1,4 +1,34 @@
-<img src="gif/jminjares4.gif">
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <stdint.h>
+
+typedef enum : uint8_t { ASEE, BSEE, MSCpE } degree_t;
+
+typedef struct {
+    char name[32];
+    union{
+        uint8_t languages;
+        char skills[64];
+    };
+    degree_t degree;
+}info_t;
+
+int main(int argc, char **argv){
+
+    info_t jminjares4 = {   .name = "Jesus Minjares",
+                            .degree = MSCpE,
+                            .skills = "Hardware | Firmware",
+                        };
+
+    printf("Name: %s\nDegree: %d\nSkills: %s\n", jminjares4.name,
+                                                 jminjares4.degree,
+                                                 jminjares4.skills );
+
+    return EXIT_SUCCESS;
+}
+```
+<!-- <img src="gif/jminjares4.gif"> -->
 
 ## ***Jesus Minjares :computer::zap:***
 I'm recent graduated with a ***Master of Science in Computer Engineering*** at [**University of Texas at El Paso (UTEP)**](https://www.utep.edu). I love `embedded systems`! The interaction between software and hardware intrigues as you need to understand both to create complex systems! :zap:
