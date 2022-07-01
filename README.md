@@ -1,10 +1,13 @@
-```c
+```c 
+/* jminjares4 GitHub Page */
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
 
+/* Degree enumeration */
 typedef enum : uint8_t { ASEE, BSEE, MSCpE } degree_t;
 
+/* Info data structure */
 typedef struct {
     char name[32];
     union{
@@ -16,11 +19,12 @@ typedef struct {
 
 int main(int argc, char **argv){
 
+    /* Store data */
     info_t jminjares4 = {   .name = "Jesus Minjares",
                             .degree = MSCpE,
                             .skills = "Hardware | Firmware",
                         };
-
+    /* Print data */
     printf("Name: %s\nDegree: %d\nSkills: %s\n", jminjares4.name,
                                                  jminjares4.degree,
                                                  jminjares4.skills );
@@ -95,10 +99,6 @@ I'm recent graduated with a ***Master of Science in Computer Engineering*** at [
 
 ## **GitHub Stats** 
 [![Jminjares4's github stats](https://github-readme-stats.vercel.app/api?username=jminjares4&theme=react&hide_border=false)](https://github.com/jminjares4)
-
-
-[![Contribution Snake](https://raw.githubusercontent.com/jminjares4/jminjares4/output/github-snake-custom.svg)](https://github.com/Platane/snk)
-
 
 <!--UNCOMMENT IF YOU WANT TO DISPLAY TOTAL COUNT
 ## **Visitor Count**
