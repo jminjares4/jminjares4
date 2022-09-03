@@ -7,31 +7,47 @@
 /* Degree enumeration */
 typedef enum { ASEE, BSEE, MSCpE } degree_t;
 
+/* Contact data structure */
+typedef struct{
+    char email[32];
+    char linkedin[64];
+    char github[32];
+} contact_t;
+
 /* Info data structure */
-typedef struct {
+typedef struct{
     char name[32];
+    degree_t degree;
     union{
         uint8_t languages;
         char skills[64];
     };
-    degree_t degree;
-}info_t;
+    contact_t contact;
+} info_t;
 
-int main(int argc, char **argv){
+int main(int argc, char **argv)
+{
 
     /* Store data */
-    info_t jminjares4 = {   .name = "Jesus Minjares",
-                            .degree = MSCpE,
-                            .skills = "Hardware | Firmware",
+    info_t jminjares4 = { .name = "Jesus Minjares",
+                          .degree = MSCpE,
+                          .skills = "Hardware | Firmware",
+                          .contact.email = "jminjares4@miners.utep.edu",
+                          .contact.linkedin = "https://www.linkedin.com/in/jesusminjares",
+                          .contact.github = "https://github.com/jminjares4"
                         };
     /* Print data */
-    printf("Name: %s\n",   jminjares4.name);
+    printf("Name: %s\n", jminjares4.name);
     printf("Degree: %d\n", jminjares4.degree);
     printf("Skills: %s\n", jminjares4.skills);
+    printf("Email: %s\n", jminjares4.contact.email);
+    printf("LinkedIn: %s\n", jminjares4.contact.linkedin);
+    printf("GitHub: %s\n", jminjares4.contact.github);
 
     return EXIT_SUCCESS;
 }
 ```
+
 <!-- <img src="gif/jminjares4.gif"> -->
 
 ## ***Jesus Minjares :computer::zap:***
@@ -44,7 +60,9 @@ I'm recent graduated with a ***Master of Science in Computer Engineering*** at [
 [![Selected Areas in Networks](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Selected-Areas-in-Networks&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/Selected-Areas-in-Networks)<br>
 [![Digital System 2](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Digital-System-2&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/Digital-System-2)<br>
 --->
-
+<a href="https://github.com/jminjares4/ESP32-Sensor-Data-Logger">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=ESP32-Sensor-Data-Logger&theme=react&layout=compact&hide_border=false" />
+</a>
 <a href="https://github.com/jminjares4/Graduation-Cap-Spring-2022">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Graduation-Cap-Spring-2022&theme=react&layout=&hide_border=false"/>
 </a>
@@ -55,9 +73,6 @@ I'm recent graduated with a ***Master of Science in Computer Engineering*** at [
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Custom-NFC-Card&theme=react&layout=compact&hide_border=false" />
 </a>
 
-<a href="https://github.com/jminjares4/EWOD">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=EWOD&theme=react&layout=compact&hide_border=false" />
-</a>
 <!-- ## **Microprocessor 2 Lab Template**
 [![Microprocessor 2 Lab Template](https://github-readme-stats.vercel.app/api/pin/?username=jminjares4&repo=Microprocessor-2-Lab-Template&theme=react&layout=compact&hide_border=false)](https://github.com/jminjares4/Microprocessor-2-Lab-Template)
 
@@ -75,7 +90,7 @@ I'm recent graduated with a ***Master of Science in Computer Engineering*** at [
 ![ESP32](https://img.shields.io/static/v1?label=&logo=espressif&message=ESP32&color=000000)
 ![ESP8266](https://img.shields.io/static/v1?label=&logo=espressif&message=ESP8266&color=000000)
 - **Rasperry Pi**<br>
-![Rasppery Pi Pico](https://img.shields.io/static/v1?&message=Raspberry+Pi+Pico&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
+![Rasppery Pi 2040](https://img.shields.io/static/v1?&message=RP2040&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=)
 - **STMicroelectronics** <br>
 ![STMicroelectronics](https://img.shields.io/static/v1?style=flat&message=STM32F4&color=03234B&logo=STMicroelectronics&logoColor=FFFFFF&label=)
 
@@ -95,15 +110,11 @@ I'm recent graduated with a ***Master of Science in Computer Engineering*** at [
 ![EagleCAD](https://img.shields.io/static/v1?label=&message=EagleCAD&color=E3D8CD&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADEAAAAxCAYAAABznEEcAAAAAXNSR0IArs4c6QAACUdJREFUaEPtWX1sVtUZ%2F52P%2B75vW6At31hMgbasAxS1DIMTkLEghk0Ss8WvmLGFZUsW56a4qRvsw5DsDzKSZXER4zY0m9PuIxFmRAvWAYM6aKG10oI2tJShFKl2bWnfe%2B95luec21q3xPaUjxDiTd68995z7rnP73l%2Bz3k%2BrsAVcIgrAAM%2BBXG5WNHbEo%2FdUTGtK8zmTxkbbJwyRsyRQkzNz5EFeQFBCgEtHTQlCBASqRQhoBjSROjopf%2B0nJV7PuiLHvnRc2%2FWXygleIHY%2BbNl1HHyBCiMEGZD6DH5qFhUgcZDDXj%2F5Cnk5qYtEKUUlIgRBBopCUjJ4PhHkIgRSEArCZ2ThyB3HHIKx%2BMHr76oKysRjwaYF4ita2ZTYR6ht7sXRISY3OPGRCDSIBhksyFKrpmHWTOLcPj1amgloISCVgSlgICFF4AQAilFCIIUVEpDp9MQOoOyh%2Fd5ycTv93rg6XuKyUQRCvIAYgBEFoyxQARi4jM3xjoPTcwDgE7j9jtWoK5qB9IpibRi6jEwQAsByf%2FWYhKZlMKM9c1ecnlNfuruq4mFGlcwDqmwGzE54xtjHBghYCBAxoEjkogZl4gQG%2BmsFxuUziunTFer0CIBJAElhf0JKVH%2B82NecnlN%2Fu1dVxHLzcotzBNIaZEICyssa9%2BQsSBYdqabA8MgJQx4zIFx82Lc%2BtXVOHvgFSgdWGuwv5Q93uIll9fkrfdMo4icENmYUDxeJ5ZIaEXS8jNkQAnVBulmBR8AxRZjEO46NgI3LlkAdarRWmND8w26srJyxE7uB%2BLeIrJ8F8KaY%2BJYgmZvJSQ0Yo3bS%2Bsjhu%2Fztd0EHPeYbkyp5BKGwRknRmQMFs5MY1vLmNXrKxtfHOlO5QXi2fuKyLAlmPMAppeVQXS8M7gvOq0OWIHBCBh2HMFOz9ZKND9kQ%2BB7zqcYNFsIKJ2a07l089vjLwqIP95XxGErEc7AmBAzJqUthVibFoTdnVjgj6zgzt09Oz7oF04ZrJSIV7FWA9LI4s4%2FdIxYwSOeyFp57mtFxNplDtutFAKlMyYg7jqbUId57%2FwCJgSpFI52it8QqX4tkTEmRhhGORAyHcWxFFIrAxOK2PRFqdyTO46GW6oOtrSN1AID87xAPL9mOhm2RKIx1u6CJZ9H51v77XbLGuUjNITlv27zWttX8KHzvV70569fbS0RJc7KPO7v78Pc6XkJMAdi0ebjXuueDwDviP3Xb0wnIxQ4EMdw26oQBmWTUm7nYR82ET73yxOXL4i%2FrS22iYWjE7l9HkDZBEAoDmaOUgs2XcaW2P7NIopFKnFit9cbQygtCKEzOWwbwEhUncq%2F66Fnap8%2FX5qM9Hkvs2%2F71iyykdbu90wfB2TBdbPQfarVphdu15Loj0T01K6C3C0HD4YjFWa087xAvPTtWezXVvvsExwbBBFuXnkLOg7tdgCSAOF8xlVIfC5sUIuRkoQsNDq6TUsW%2Br3T51JNu1vMM7%2Bvbqq%2BJCB2fKeUXNByeZC1BAgrbl%2BJEzVVNqA5IAmYxNntfR4SnChKmLAflDcBYWYMorAfSqfx9%2Frer2x8oe4vowHiZYlX7y8hzmC57ORUwabi1hJfxJnaXYnWk0BoiedQcA1SOO9mvHHwTWQCtwlwBsx5l1ICgZaobw8fXPtE7eaLDmLnd0vJWcFpO4ltqFj4WXS1NH3s%2FZxGTL1%2BCV7eVgWdl4eAKzwloLWy51yyKq7ytLSlak1rdu39T9Y9fdFBVH%2BvjOIk%2BWO%2FsLkQScyeqoAoGny%2FLpyMfUc6oLSCVDIBwJWbQkopCOWKIAYkud7WCgsf3e%2FFilFH7Ne%2FP9v6hAWQ5E7Mr%2BKxWaggbe9k5i3Hntf%2B4TQNQLL2FYOB07yQUNqdczkaBBLpIJW97uHdvMCoDi%2F0ux%2F6zCCdLJU4hQZQXMC5qcLEG2%2FDKy9VuY4HNwMk00ZBSWOtwgAcGL7PYNL48FxUf9vGmvmjkj55yAvEnnXlJMg59IA%2FZLMRZk5UMFEfGrrGQvF2KhVX2tYaQnHZGSdgnC%2BkA4H9x%2BWaB3%2F3xtbzEX7gWS8Qe9fNIc6VmE5MHf7jUnTmuAinC%2BbivbYWCN5HBbC9Ibp2S1VTw4UQcrg1vED8c91cgnABmINzDIE5i5eh40AVjnVr6CBlY8iqTQ1e6w4n5HDjXi9jS2gVD9bNvHjhxELEH55Ge5xvrcOl6MpfHPJadzghhxv3elnND8sJxEkEl6iu6B8jzoELvbNyvKUR%2B8IXNl7GIOoe4bRDgiMCJ1F9%2FVnkau7mSXTKXKQzaRgjccvj%2F%2FJSznCaHm7c62WHHy0j2xBLcqKr5i9E24G9NnzPW3YrDtfVMpvQ3iX%2FdOemmruHe%2FmFGvcC0fhYCUXc1056St09vXbrtIcAgkmT7f7Pi57LijNLf7p%2F0oUS9JPW8QPx4zKbpkYGCLP96OrjVJtLVNu0wZTZc9Hd%2FQGk9Q1OKThmcLoB8Ewb%2FIRAXxadsZBtnIL19FGvAnryx6rJPGYImWsf2FXuA94LRPNPyshEBrGQmFB%2BPQ7v3ZcAcK%2B07chVX0b70Tp7zYGNt1wWjhvFNhWxbX3Ye5KzWBvVXaufx2UUY8ranV5yeU1u3lBC0tqC0Pxu1u1G1goJo3hMEhZ%2FaTVa36m3FhngGn9kGRCen2FQioElrf0BIO31R1Cxya%2Fd4wXi7Q0zCNAgrdHY2mM7HYxEKAWKIyuQgwjcsGw5es602CzWajkZsxbh3Iq1wbkUg7GZooQig2O1zd4tHy8Qx9YXkxAB6tqzrr%2FPEAYtwUIxAta47fMjzvajYukiaJxLaMUpOE9x1LKWSf55Lf5M1ri%2FEUt%2B1eoll9fk5vUlpCnmAmbwGxMvMACE6%2B2PA0vIpBUWL70GcRgOOrqlFH%2BcHPKxShqgtqYJK564yCDaezM4%2Be7ZhOu8M7m2po3fTJuhX9BY1TYT4XlASDFuWnwT8oNu%2B33LNhWG%2BFR3RxeONJ%2FAqifbvZTrNbllfTG9drTf%2BcFQh%2BZzwTWFzWGTsDFw5gD878FFEWNYuGg%2BCsc532pqaMOzjVS8ZftbXk1lLxAvPzCXjv%2F7fadBpSEMN%2FrdYbiGIOZ40tmwHu78xFmI%2FZi%2FDhkbIMlEyNNAfc%2F4F%2FZ0Tru3urr6o%2Fr2%2FzF%2F4h0vEJ5rX7Lpn4K4ZKoe5kVXhCX%2BC1G0f24AESeRAAAAAElFTkSuQmCC&logoHeight=40)
 
 ## **Top Languages**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jminjares4&layout=compact&hide=CMake,html,Assembly,Batchfile,Makefile,XS,css&theme=react&hide_border=false)](https://github.com/jminjares4/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jminjares4&layout=compact&hide=CMake,html,Assembly,Batchfile,Makefile,XS,css,JavaScript&theme=react&hide_border=false)](https://github.com/jminjares4/)
 
 ## **GitHub Stats** 
 [![Jminjares4's github stats](https://github-readme-stats.vercel.app/api?username=jminjares4&theme=react&hide_border=false)](https://github.com/jminjares4)
 
-<!--UNCOMMENT IF YOU WANT TO DISPLAY TOTAL COUNT
-## **Visitor Count**
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=jminjares4.jminjares4)](https://github.com/jminjares4)
--->
 ## ***Contact:***
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&style=flat)](mailto:jminjares4@miners.utep.edu)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/jesusminjares) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat)](https://github.com/jminjares4) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white&style=flat)](https://linktr.ee/JesusMinjares)
 [![Resume Badge](https://img.shields.io/static/v1?label=&message=Resume&color=grey&logo=Github)](https://jminjares4.github.io/resume/)
