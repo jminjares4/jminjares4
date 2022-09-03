@@ -18,10 +18,6 @@ typedef struct{
 typedef struct{
     char name[32];
     degree_t degree;
-    union{
-        uint8_t languages;
-        char skills[64];
-    };
     contact_t contact;
 } info_t;
 
@@ -31,7 +27,6 @@ int main(int argc, char **argv)
     /* Store data */
     info_t jminjares4 = { .name = "Jesus Minjares",
                           .degree = MSCpE,
-                          .skills = "Hardware | Firmware",
                           .contact.email = "jminjares4@miners.utep.edu",
                           .contact.linkedin = "https://www.linkedin.com/in/jesusminjares",
                           .contact.github = "https://github.com/jminjares4"
@@ -39,7 +34,6 @@ int main(int argc, char **argv)
     /* Print data */
     printf("Name: %s\n", jminjares4.name);
     printf("Degree: %d\n", jminjares4.degree);
-    printf("Skills: %s\n", jminjares4.skills);
     printf("Email: %s\n", jminjares4.contact.email);
     printf("LinkedIn: %s\n", jminjares4.contact.linkedin);
     printf("GitHub: %s\n", jminjares4.contact.github);
