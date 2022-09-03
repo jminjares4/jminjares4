@@ -2,7 +2,6 @@
 /* jminjares4 GitHub Page */
 #include <stdio.h>
 #include <stdlib.h>
-#include <stdint.h>
 
 /* Degree enumeration */
 typedef enum { ASEE, BSEE, MSCpE } degree_t;
