@@ -1,4 +1,4 @@
-```c 
+<!-- ```c 
 /* jminjares4 GitHub Page */
 #include <stdio.h>
 #include <stdlib.h>
@@ -38,12 +38,52 @@ int main(int argc, char **argv)
 
     return EXIT_SUCCESS;
 }
+``` -->
+
+```rust
+/* jminjares4 GitHub Page */
+
+/* Degree enumeration */
+#[derive(Debug)]
+enum Degree { ASEE, BSEE, MSCPE, }
+
+/* Contact data structure */
+#[derive(Debug)]
+struct Contact {
+    email: String,
+    linkedin: String,
+    github: String,
+}
+
+/* Info data structure */
+#[derive(Debug)]
+struct Info {
+    name: String,
+    degree: Degree,
+    contact: Contact
+}
+
+fn main () {
+    /* Store data */
+    let jminjares4 = Info {
+        name: String::from("Jesus Minjares"),
+        degree: Degree::MSCPE,
+        contact: Contact { 
+                    email: String::from("jminjares4@miners.utep.edu"), 
+                    linkedin: String::from("https://www.linkedin.com/in/jesusminjares"),
+                    github: String::from("https://github.com/jminjares4"), 
+                },
+    };
+    /* Print data */
+    println!("Info: {:?}", jminjares4);
+}
 ```
 
 <!-- <img src="gif/jminjares4.gif"> -->
 
 ## ***Jesus Minjares :computer::zap:***
-I am an **`embedded software engineer`** with a strong passion for `embedded systems`. I have **extensive** knowledge of *hardware* and *software* concepts that allow me to use engineering principles to create complex systems! :zap:
+
+Weclome to my GitHub Page! I am an **`embedded software engineer`** @ Sandia National Labs using my hardware and software skills to develop embedded systems . 
 
 ## ***Recent Projects***
 
