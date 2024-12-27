@@ -45,7 +45,7 @@ int main(int argc, char **argv)
 
 /* Degree enumeration */
 #[derive(Debug)]
-enum Degree { ASEE, BSEE, MSCPE, }
+enum Degree { ASEE, BSEE, MSCPE, MSAI,}
 
 /* Contact data structure */
 #[derive(Debug)]
@@ -67,9 +67,9 @@ fn main () {
     /* Store data */
     let jminjares4 = Info {
         name: String::from("Jesus Minjares"),
-        degree: Degree::MSCPE,
+        degree: Degree::MSAI,
         contact: Contact { 
-                    email: String::from("jminjares4@miners.utep.edu"), 
+                    email: String::from("jesusminjaresjr@gmail.com"), 
                     linkedin: String::from("https://www.linkedin.com/in/jesusminjares"),
                     github: String::from("https://github.com/jminjares4"), 
                 },
